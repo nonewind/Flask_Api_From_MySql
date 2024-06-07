@@ -1,0 +1,17 @@
+__pycache__
+.VSCodeCounter
+venv
+migrations
+*.log
+test*
+mysqlBackUp
+.DS_Store
+.vscode
+.pytest*
+.benchmarks
+.chglog
+.empty
+alarm
+changeWeekLog
+log
+*.json
